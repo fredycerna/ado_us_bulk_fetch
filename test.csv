@@ -1,0 +1,2 @@
+Title,Description,AcceptanceCriteria,FeatureID
+Notification Service - Bootstrapping,"As a developer, I want to create and deploy the Notification Service as an independent microservice so we can start development and integration.","Repository created, CD/CD pipelines set up, Azure infra provisioned, KeyVault integrated, and basic unit tests running.",542
