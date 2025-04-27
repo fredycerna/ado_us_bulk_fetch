@@ -27,7 +27,7 @@ This script allows you to **bulk create User Stories** in **Azure DevOps** autom
 1. Configure your `settings.json` file with your organization, project, and token.
 2. Prepare your `user_stories.csv` file using the following format:
    ```csv
-   Title,Description,FeatureID,AcceptanceCriteria
+   Title,Description,AcceptanceCriteria,FeatureID
    ```
 3. Run the script:
 
